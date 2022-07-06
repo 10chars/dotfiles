@@ -1,1 +1,4 @@
-
+[includeIf "gitdir:~/development/play/"]
+  path = .gitconfig-10chars
+[includeIf "gitdir:~/development/work/"]
+  path = .gitconfig-basal
