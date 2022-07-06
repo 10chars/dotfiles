@@ -1,0 +1,6 @@
+[user]
+	email = luke@play-email.com
+	name = luke-play
+
+[core]
+sshCommand = ssh -i ~/.ssh/id_ed25519_play
